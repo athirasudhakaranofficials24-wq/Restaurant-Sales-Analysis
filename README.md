@@ -6,7 +6,7 @@ Restaurant Sales Analysis Dashboard
 
 This project analyzes restaurant sales data using Tableau Desktop to understand sales performance, customer ordering patterns, payment preferences, and branch-wise revenue.
 
-# # Tools Used
+## Tools Used
 
 Tableau Desktop
 
